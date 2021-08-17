@@ -1,0 +1,8 @@
+#ignored files and folders
+.DS_Store
+*.iml
+/.idea/
+/out/
+/target/
+/bin/
+/test-output/
